@@ -1,0 +1,134 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+    <title>Privacy Policy | MiniPC Mining</title>
+    <meta name="description" content="Want to mine crypto CPU coins on NUC computers. MiniPC Mining sell used mini pc for mining latest CPU PoW. Check out our stock.">
+    <link rel="canonical" href="https://minipc-mining.com/privacy-policy/" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="MiniPC Mining" />
+    <meta property="og:description" content="Want to mine crypto CPU coins on NUC computers. MiniPC Mining sell used mini pc for mining latest CPU PoW. Check out our stock." />
+    <meta property="og:url" content="https://minipc-mining.com/privacy-policy/" />
+    <meta property="og:image" content="https://minipc-mining.com/assets/img/logo/og-image.jpg" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="722" />
+    <meta property="og:image:alt" content="MiniPC Mining" />
+    <meta property="og:site_name" content="MiniPC Mining" />
+    <?php include "./../includes/favicon.php" ?>
+    <?php include "./../includes/global_head.php" ?>
+    <?php include "./../includes/gtag.php" ?>
+</head>
+
+
+<body class="sticky-header">
+<?php include "./includes/back-to-top.php" ?>
+<!-- Start Header -->
+<header class="header axil-header header-style-5">
+    <?php include "./../includes/mainmenu.php" ?>
+</header>
+<!-- End Header -->
+
+<main class="main-wrapper">
+    <!-- Start Breadcrumb Area  -->
+    <div class="axil-breadcrumb-area">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6 col-md-8">
+                    <div class="inner">
+                        <ul class="axil-breadcrumb">
+                            <li class="axil-breadcrumb-item"><a href="/">Home</a></li>
+                            <li class="separator"></li>
+                            <li class="axil-breadcrumb-item active" aria-current="page">Policy</li>
+                        </ul>
+                        <h1 class="title">Privacy Policy</h1>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-4">
+                    <div class="inner">
+                        <div class="bradcrumb-thumb">
+                            <img src="/assets/images/logo/NucMining_icon_250x250.png" width="200" alt="Image">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Breadcrumb Area  -->
+
+    <!-- Start Privacy Policy Area  -->
+    <div class="axil-privacy-area axil-section-gap pb--50 pb_sm--30">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-10">
+                    <div class="axil-privacy-policy">
+                        <span class="policy-published">This Privacy policy was published on April 23rd, 2023.</span>
+                        <p>At MiniPC Mining, accessible from https://minipc-mining.com, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by MiniPC Mining and how we use it.</p>
+
+                        <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
+
+                        <h2 class="title">Log Files</h2>
+
+                        <p>MiniPC Mining follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information. Our Privacy Policy was created with the help of the <a href="https://www.termsfeed.com/privacy-policy-generator/">Privacy Policy Generator</a>.</p>
+
+                        <h2 class="title">Cookies and Web Beacons</h2>
+
+                        <p>Like any other website, MiniPC Mining uses "cookies". These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.</p>
+
+                        <h2 class="title">Google DoubleClick DART Cookie</h2>
+
+                        <p>Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – <a href="https://policies.google.com/technologies/ads">https://policies.google.com/technologies/ads</a></p>
+
+                        <h2 class="title">Our Advertising Partners</h2>
+
+                        <p>Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.</p>
+
+                        <ul>
+                            <li>
+                                <p>Google</p>
+                                <p><a href="https://policies.google.com/technologies/ads">https://policies.google.com/technologies/ads</a></p>
+                            </li>
+                        </ul>
+
+                        <h2 class="title">Privacy Policies</h2>
+
+                        <P>You may consult this list to find the Privacy Policy for each of the advertising partners of MiniPC Mining.</p>
+
+                        <p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on MiniPC Mining, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
+
+                        <p>Note that MiniPC Mining has no access to or control over these cookies that are used by third-party advertisers.</p>
+
+                        <h2 class="title">Third Party Privacy Policies</h2>
+
+                        <p>MiniPC Mining's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. </p>
+
+                        <p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites. What Are Cookies?</p>
+
+                        <h2 class="title">Children's Information</h2>
+
+                        <p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
+
+                        <p>MiniPC Mining does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
+
+                        <h2 class="title">Online Privacy Policy Only</h2>
+
+                        <p>This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in MiniPC Mining. This policy is not applicable to any information collected offline or via channels other than this website.</p>
+
+                        <h2 class="title">Consent</h2>
+
+                        <p>By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Privacy Policy Area  -->
+
+</main>
+
+<?php include "./../includes/footer.php" ?>
+<?php include "./../includes/global_footer.php" ?>
+
+</body>
+
+</html>
